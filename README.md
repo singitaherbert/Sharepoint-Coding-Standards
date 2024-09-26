@@ -1,7 +1,7 @@
 # Sharepoint-Coding-Standards
 Here are some SharePoint coding standards and best practices that will help maintain code quality, performance, and scalability when developing SharePoint solutions:
 
-# 1. **General Best Practices
+# 1. **General Best Practices**
    - **Follow SOLID principles** for object-oriented design.
    - **Use C# for SharePoint development**, especially for web parts and custom workflows.
    - Avoid hardcoding strings or configurations. Store configurations in a configurable and centralized location, like a property bag, SharePoint lists, or a config file.
